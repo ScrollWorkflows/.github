@@ -1,40 +1,56 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScrollWorkflows/.github/main/profile/logo.png" alt="ScrollWorkflows logo" width="140" />
+<img src="https://raw.githubusercontent.com/ScrollWorkflows/.github/main/profile/logo.png" width="110" alt="ScrollWorkflows logo">
 
 # ScrollWorkflows
+### Ship AI content that stops the scroll.
+Plug-and-play ComfyUI, n8n and RunPod workflows for ads, AI influencers and mini series.
+<br>
 
-**Plug-and-play AI workflows for content that stops the scroll.**
-
-[🌐 scrollworkflows.online](https://scrollworkflows.online)
+[![ComfyUI](https://img.shields.io/badge/COMFYUI-WORKFLOWS-7C3AED?style=for-the-badge)](https://scrollworkflows.online)
+[![n8n](https://img.shields.io/badge/N8N-AUTOMATION-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://scrollworkflows.online)
+[![RunPod](https://img.shields.io/badge/RUNPOD-READY-6D28D9?style=for-the-badge)](https://scrollworkflows.online)
+[![Live](https://img.shields.io/badge/SCROLLWORKFLOWS.ONLINE-LIVE-22C55E?style=for-the-badge)](https://scrollworkflows.online)
 
 </div>
 
----
+<br>
 
-We turn AI tooling into ready-to-run toolkits, so you can ship content instead of chasing tutorials.
+**Stop tutorial-hopping.** Most AI content setups die in a maze of half-working guides, broken nodes and GPU configs. ScrollWorkflows packages what actually works into **ready-to-run toolkits** with **step-by-step video guides**, so you spend your time posting, not debugging.
 
-### What we build
-- 🛍️ **Image → Ads**: product photo to scroll-stopping ad creatives
-- 🧑‍🎤 **AI Influencers**: consistent characters you can post daily
-- 🎬 **Mini Series**: script to scenes to episodes, automated
+<br>
 
-### Stack
-`ComfyUI` · `n8n` · `RunPod` · `AI agents`
+## 🧰 Toolkits
 
-### Pay in USDC on Solana
-One scan with a Solana wallet. No account, no card. Pay once and keep the toolkit forever.
+| Toolkit | What you get |
+|---|---|
+| 🛍️ **Image → Ads** | Turn one product photo into a batch of ad images and short videos |
+| 🧑‍🎤 **AI Influencer** | A consistent AI character: LoRA, face consistency, skin enhancement, motion control |
+| 🎬 **Mini Series** | Script, storyboard and render multi-scene episodes with agents |
 
-### Repos
+<br>
+
+## ⚙️ How it works
+
+1. **Pick:** choose the toolkit that matches your content goal.
+2. **Deploy:** import the workflows into ComfyUI and n8n, and spin up a RunPod template.
+3. **Ship:** follow the guide, generate, and post.
+
+<br>
+
+## 📦 Repos
+
 | Repo | What's inside |
 |---|---|
 | [`workflows-free`](https://github.com/ScrollWorkflows/workflows-free) | Free sample workflows |
-| `platform` | Storefront and Solana payments (private) |
+| `platform` | Storefront and API (private) |
 | `workflows` | Paid toolkits (private) |
 | `courses` | Video guides and playbooks (private) |
 
+<br>
+
 <div align="center">
 
-**[Get the toolkits →](https://scrollworkflows.online)**
+**[Explore the toolkits at scrollworkflows.online →](https://scrollworkflows.online)**
 
 </div>
