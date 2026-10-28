@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/ScrollWorkflows/.github/main/profile/logo.png" width="110" alt="ScrollWorkflows logo">
 
 # ScrollWorkflows
-### Ship AI content that stops the scroll.
 Plug-and-play ComfyUI, n8n and RunPod workflows for ads, AI influencers and mini series.
 <br>
 
