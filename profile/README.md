@@ -38,17 +38,6 @@ Plug-and-play ComfyUI, n8n and RunPod workflows for ads, AI influencers and mini
 
 <br>
 
-## 📦 Repos
-
-| Repo | What's inside |
-|---|---|
-| [`workflows-free`](https://github.com/ScrollWorkflows/workflows-free) | Free sample workflows |
-| `platform` | Storefront and API (private) |
-| `workflows` | Paid toolkits (private) |
-| `courses` | Video guides and playbooks (private) |
-
-<br>
-
 <div align="center">
 
 **[Explore the toolkits at scrollworkflows.online →](https://scrollworkflows.online)**
